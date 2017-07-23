@@ -1,0 +1,24 @@
+{
+  "name": "Dynamic-graph",
+  "version": "1.0.0",
+  "description": "Dynamic graph using 3d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start -s -f index.html src --no-ui --no-notify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasminny/Dynamic-graph.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasminny/Dynamic-graph/issues"
+  },
+  "homepage": "https://github.com/yasminny/Dynamic-graph#readme",
+  "dependencies": {
+    "d3": "^4.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
